@@ -1,5 +1,5 @@
 
-# mulitApp 智能机柜C端(小程序端)  #
+# mulitcloudApp 智能机柜C端(小程序端)  #
 
 ## 一、开发环境安装 ##
 
